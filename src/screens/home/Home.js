@@ -8,6 +8,7 @@ import Colors from '../../constants/color'
 import {Icon} from 'native-base'
 import Event from '../event/Event'
 import Stand from '../stand/Stand';
+
 import Information from '../information/Information';
 import Setting from '../setting/Setting';
 

@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
         backgroundColor:Colors.White,
         width:Dimension.deviceWidth,
         height:Dimension.deviceHeight
+        
     },
     container:{
         backgroundColor:Colors.White,
