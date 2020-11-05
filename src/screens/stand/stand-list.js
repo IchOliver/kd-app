@@ -1,0 +1,39 @@
+import Images from "../../constants/images";
+
+export const StandList =[
+   {
+       image:Images.Logo,
+       title:'Deloitte',
+       desc:'35'
+   },
+   {
+        image:Images.Logo,
+        title:'Lyse',
+        desc:'35'
+   },
+   {
+        image:Images.Logo,
+        title:'Deloitte',
+        desc:'35'
+   },
+   {
+    image:Images.Logo,
+    title:'Lyse',
+    desc:'35'
+},
+{
+    image:Images.Logo,
+    title:'Deloitte',
+    desc:'35'
+},
+{
+    image:Images.Logo,
+    title:'Lyse',
+    desc:'35'
+},
+{
+    image:Images.Logo,
+    title:'Deloitte',
+    desc:'35'
+},
+]
