@@ -4,6 +4,7 @@ import axios from 'axios'
 
 
 
+
 class NetworkServices {
   
     static requestPost(url,params,headers = null){
@@ -14,6 +15,7 @@ class NetworkServices {
         return NetworkServices.requestHttp('GET', url, null, headers)
       }
     
+      
       static requestPut(url, params, headers = null) {
         return NetworkServices.requestHttp('PUT', url, params, headers)
       }

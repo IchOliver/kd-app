@@ -7,6 +7,7 @@ import Screens from '../../utils/screen'
 import styles from './styles'
 const Setting = () =>{
 
+  
   const onRole =()=>{
     Storage.removeItem('role');
     NavigationService.navigate(Screens.SignIn)

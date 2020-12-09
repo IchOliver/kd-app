@@ -14,7 +14,9 @@ const STATUSBAR_HEIGHT = Platform.OS === 'ios' ? 20 : StatusBar.currentHeight;
 const SignIn = ({Auth,signIn,getEvents,getStands,getInformations}) =>{
     
     
-    useEffect(()=>{
+  
+
+  useEffect(()=>{
       // const role = Storage.getItem('role');
   
       AsyncStorage.getItem('role').then((value)=>{
