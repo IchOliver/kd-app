@@ -8,6 +8,7 @@ var _NetworkServices = _interopRequireDefault(require("./NetworkServices"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
+
 function WService() {
   this.url = _index.API_URL;
 }

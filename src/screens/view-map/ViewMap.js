@@ -10,6 +10,7 @@ import Images from '../../constants/images'
 const ViewMap = ({navigation}) =>{
    const view_url = navigation.state.params.item;
     return(
+        
     <View style={styles.container}>
         <View style={styles.eventContainer}>
             <View style={{flexDirection:'row',alignItems:'center',justifyContent:'space-between',width:'100%'}}>

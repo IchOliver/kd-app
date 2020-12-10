@@ -8,12 +8,13 @@ const styles = StyleSheet.create({
         width:Dimension.deviceWidth,
         height:Dimension.deviceHeight
     },
-    
+
     container:{
         backgroundColor:Colors.White,
         width:Dimension.deviceWidth,
         height:Dimension.deviceHeight
     },
+    
     eventContainer:{
         backgroundColor:Colors.Blue,
         width:Dimension.deviceWidth,

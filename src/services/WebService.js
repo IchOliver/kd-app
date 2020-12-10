@@ -17,6 +17,8 @@ function WService() {
     return NetworkServices.requestGet(this.makeUrl('/events'))
   }
 
+
+  
   WService.prototype.getStands = function(){
     return NetworkServices.requestGet(this.makeUrl('/stands'))
   }

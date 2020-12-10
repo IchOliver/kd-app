@@ -15,6 +15,8 @@ const saveItem = (key, value) => {
   }
 }
 
+
+
 const removeItem = async key => {
   try {
     await AsyncStorage.removeItem(key)

@@ -15,11 +15,12 @@ class NetworkServices {
         return NetworkServices.requestHttp('GET', url, null, headers)
       }
     
-      
+
       static requestPut(url, params, headers = null) {
         return NetworkServices.requestHttp('PUT', url, params, headers)
       }
     
+      
       static requestPatch(url, params, headers = null) {
         return NetworkServices.requestHttp('PATCH', url, params, headers)
       }

@@ -15,6 +15,7 @@ var _storage = _interopRequireDefault(require("../../utils/storage"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
+
 var signIn = function signIn(role) {
   return function (dispatch) {
     dispatch({
