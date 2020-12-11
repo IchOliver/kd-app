@@ -10,3 +10,4 @@ export default combineReducers({
     informs:informationReducer,
     stands:standReducer
 })
+

@@ -10,6 +10,7 @@ const Storage = {
     setItem: async function (key, value) {
         return await AsyncStorage.setItem(key, JSON.stringify(value));
     },
+    
     removeItem: async function (key) {
         return await AsyncStorage.removeItem(key);
     }

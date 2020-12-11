@@ -12,6 +12,7 @@ import Company from './screens/company/Company'
 import ViewMap from './screens/view-map/ViewMap'
 import ViewSocial from './screens/view-social/ViewSocial'
 
+
 console.disableYellowBox = true;
 
 

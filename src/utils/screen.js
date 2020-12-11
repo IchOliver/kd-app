@@ -7,4 +7,5 @@ const Screens ={
     ViewMap:'ViewMap',
     ViewSocial:'ViewSocial'
 }
+
 export default Screens;

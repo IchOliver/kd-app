@@ -19,6 +19,8 @@ export const getStands = () =>{
 
 }
 
+
+
 export const searchStand = (text) =>{
    
      return dispatch=>{
