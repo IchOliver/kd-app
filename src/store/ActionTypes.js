@@ -5,6 +5,7 @@ export const ActionTypes ={
     USER_SIGN_SUCCESS:'USER_SIGN_SUCCESS',
     USER_SIGN_FAIL:'USER_SIGN_FAIL',
 
+    
      // get event action types
      GET_EVENT_START:'GET_EVENT_START',
      GET_EVENT_SUCCESS:'GET_EVENT_SUCCESS',

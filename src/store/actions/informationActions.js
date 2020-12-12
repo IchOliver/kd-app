@@ -3,6 +3,7 @@ import WService from '../../services/WebService'
 const webService = new WService();
 export const getInformations = () =>{
 
+   
  return dispatch =>{
     
     dispatch({type:ActionTypes.GET_INFO_START});
@@ -15,6 +16,6 @@ export const getInformations = () =>{
     
  }
 
- 
+
 
 }
