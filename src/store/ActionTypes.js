@@ -2,10 +2,11 @@ export const ActionTypes ={
 
      // user athentication action types
     USER_SIGN_START:'USER_SIGN_START',
+    
     USER_SIGN_SUCCESS:'USER_SIGN_SUCCESS',
     USER_SIGN_FAIL:'USER_SIGN_FAIL',
 
-    
+
      // get event action types
      GET_EVENT_START:'GET_EVENT_START',
      GET_EVENT_SUCCESS:'GET_EVENT_SUCCESS',

@@ -5,6 +5,7 @@ const Screens ={
     Page:'Page',
     Company:'Company',
     ViewMap:'ViewMap',
+    
     ViewSocial:'ViewSocial'
 }
 
