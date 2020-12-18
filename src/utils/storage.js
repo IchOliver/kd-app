@@ -14,6 +14,7 @@ const Storage = {
     removeItem: async function (key) {
         return await AsyncStorage.removeItem(key);
     }
+    
 };
 
 export default Storage;

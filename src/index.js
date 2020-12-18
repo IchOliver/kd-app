@@ -7,6 +7,7 @@ import NavigationService from './navigation/NavigationService'
 import SignIn from './screens/signin/SignIn'
 import CompanyPin from './screens/company-pin/CompanyPin'
 import Home from './screens/home/Home'
+
 import Page from './screens/page/Page'
 import Company from './screens/company/Company'
 import ViewMap from './screens/view-map/ViewMap'
