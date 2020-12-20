@@ -4,6 +4,7 @@ import NavigationService from '../../navigation/NavigationService';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import {connect} from 'react-redux'
 import {ActionCreators} from '.././../store/action'
+
 import { bindActionCreators } from 'redux';
 import Screens from '../../utils/screen';
 import Storage from '../../utils/storage'
